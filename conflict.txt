@@ -1,4 +1,4 @@
-CONFLICT 
+CONFLICT
 ========
 
 #1 create two branches
@@ -15,4 +15,5 @@ CONFLICT occured
 
 #4 resolve conflict manually and commit change 
 :git add file.txt
+
 git commit -m "confilct resolved"
