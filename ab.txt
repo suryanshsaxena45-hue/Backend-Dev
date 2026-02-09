@@ -1,0 +1,2 @@
+this is my data from code 12 and undefined and name undefined and undefined
+This is the updated text by export and import
