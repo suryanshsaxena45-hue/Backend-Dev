@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Suryansh",
+    "gender": "Male",
+    "department": "Sales",
+    "salary": "30000",
+    "startDate": "17-Jan-2018",
+    "notes": "gfdhfffd"
+  },
+  {
+    "id": 3,
+    "name": "Gaurav Singh",
+    "gender": "Male",
+    "department": "Sales",
+    "salary": "40000",
+    "startDate": "3-Feb-2026",
+    "notes": "heeloo my name is gaurav"
+  },
+  {
+    "id": 4,
+    "name": "Olivia Brown",
+    "gender": "Female",
+    "department": "Marketing",
+    "salary": 45000,
+    "startDate": "2022-02-11",
+    "notes": "SEO Specialist"
+  },
+  {
+    "id": 9,
+    "name": "James Hernandez",
+    "gender": "Male",
+    "department": "Finance",
+    "salary": 62000,
+    "startDate": "2017-11-27",
+    "notes": "Auditor"
+  },
+  {
+    "id": 1771580288313,
+    "name": "Vedansh kumar",
+    "gender": "Male",
+    "department": "HR",
+    "salary": "30000",
+    "startDate": "1-Oct-2022",
+    "notes": "My name is vedansh"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1771599410558,
+    "name": "suryansh saxena",
+    "email": "suryanshsaxena45@gmail.com",
+    "password": "$2b$10$baWklnVIbZnTmT/1WKpTMeSEtpVuMGqCMb6h223cWaxY09VDY5k/K"
+  },
+  {
+    "id": 1771599586914,
+    "name": "suryansh saxena",
+    "email": "tanishkapal217@gmail.com",
+    "password": "$2b$10$dfJT6w7kl56P5p/lorhmgO325eSJbMh9fOKCU8jIVkb2YdiKy/Ake"
+  },
+  {
+    "id": 1771600270183,
+    "name": "dev",
+    "email": "gaurav.singh_cs23@gla.ac.in",
+    "password": "$2b$10$oqTtBkyjvnrKkvVezJ3Uf.TpjbOi4.flN6u74/2uqYCCFr8xPZjau"
+  },
+  {
+    "id": 1771600355722,
+    "name": "Vedansh kumar",
+    "email": "qwer@gmail.com",
+    "password": "$2b$10$07WWzn6ZpX0Gvi0QtnYkPOtwedjg/LDi2Hw/4mScZkVCE29enUKHO"
+  },
+  {
+    "id": 1771601338186,
+    "name": "krishna sharma",
+    "email": "krihsna@gmail.com",
+    "password": "$2b$10$kSUReUkHHnCxwmZ6zlvLuu7SzW/28gRAiPcZ9Kylos1AfrcGqVRzm",
+    "role": "admin"
+  },
+  {
+    "id": 1771601569165,
+    "name": "kartikey sharma",
+    "email": "tiwarishashank443@gmail.com",
+    "password": "$2b$10$rdNueyNwUVwaqh4.VGMHleNw4xOf7iGBR.3azNJq9gmmZUKLCZ2qq",
+    "role": "admin"
+  }
+]
